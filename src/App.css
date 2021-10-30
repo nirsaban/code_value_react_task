@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+.search-icon {
+  position: absolute;
+  right: 5px;
+  top: 5px;
+  z-index: 9999;
+}
